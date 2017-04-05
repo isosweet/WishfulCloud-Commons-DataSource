@@ -13,8 +13,6 @@ import redis.clients.jedis.JedisPool;
 
 /**
  * redis工具类
- * 
- * @author JBH
  *
  */
 public class RedisCluster {
